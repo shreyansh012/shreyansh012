@@ -1,4 +1,6 @@
-#  Hi there 👋, I am Shreyansh Arora
+<h1 align="center"> 
+ Hi there 👋, I am Shreyansh Arora 
+</h1>
 
 
 - 🌱 I’m currently learning Software Development
